@@ -1,0 +1,8 @@
+com\unibague\ingsistemas\main\Principal.class
+bd\ConexionOracle.class
+model\CuentasAzureServicioSqlServer.class
+model\CuentasAzureServicioOracle.class
+model\CuentasAzureServicio.class
+bd\ConexionSqlServer.class
+model\CuentasAzureServicioImpl.class
+estructural\CuentasAzure.class

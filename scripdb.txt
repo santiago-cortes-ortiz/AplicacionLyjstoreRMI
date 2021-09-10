@@ -1,0 +1,2 @@
+create table cuentas_azure (id_cuenta NUMBER(4), correo varchar2(200), contrasenia varchar2(200), pais_creacion varchar2(200),
+CONSTRAINT PKCuentas_Azure PRIMARY KEY (id_cuenta));
