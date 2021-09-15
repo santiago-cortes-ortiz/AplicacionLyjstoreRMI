@@ -31,12 +31,10 @@ public class CuentasAzureServicioImpl extends UnicastRemoteObject implements Cue
             CompletableFuture cf = new CompletableFuture();
                 cf.runAsync(()
                         -> {
-                    System.out.println("tiempo 1 insertar oracle: " + LocalDateTime.now());
                     servicioOracle.insertar(cuentasAzure);
                 }).exceptionally(fn -> {System.out.println("Error: "+fn);return null;});
                 cf.runAsync(()
                         -> {
-                    System.out.println("tiempo 2 insertar sqlserver: " + LocalDateTime.now());
                     servicioSqlServer.insertar(cuentasAzure);
                 }).exceptionally(fn -> {System.out.println("Error: "+fn);return null;});
                 return true;
@@ -75,6 +73,7 @@ public class CuentasAzureServicioImpl extends UnicastRemoteObject implements Cue
             System.out.println("Error: "+e);
             return null;
         }
+
     }
 
     @Override
