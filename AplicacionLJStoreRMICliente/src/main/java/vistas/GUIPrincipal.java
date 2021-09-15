@@ -24,6 +24,7 @@ public class GUIPrincipal extends javax.swing.JFrame {
     public GUIPrincipal(CuentasAzureServicio ser) {
         initComponents();
         servicioCuentasAzure = ser;
+        this.setTitle("Primer proyecto");
     }
 
     

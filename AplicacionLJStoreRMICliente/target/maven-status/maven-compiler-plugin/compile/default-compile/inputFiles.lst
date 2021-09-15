@@ -1,6 +1,11 @@
-C:\Users\Lauritas\Documents\NetBeansProjects\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIEliminarCuentaAzure.java
-C:\Users\Lauritas\Documents\NetBeansProjects\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIAdicionarCuentaAzure.java
-C:\Users\Lauritas\Documents\NetBeansProjects\AplicacionLJStoreRMICliente\src\main\java\estructural\CuentasAzure.java
-C:\Users\Lauritas\Documents\NetBeansProjects\AplicacionLJStoreRMICliente\src\main\java\model\CuentasAzureServicio.java
-C:\Users\Lauritas\Documents\NetBeansProjects\AplicacionLJStoreRMICliente\src\main\java\aplicacionljstorermicliente\AplicacionLJStoreRMICliente.java
-C:\Users\Lauritas\Documents\NetBeansProjects\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIPrincipal.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIAdicionarCuentaAzure.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\aplicacionljstorermicliente\AplicacionLJStoreRMICliente.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\model\CuentasAzureServicio.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIListarCuentasAzure.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\estructural\CuentasAzure.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIEliminarCuentaAzure.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIBuscarCuentaAzure.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIPrincipal.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIGraficaCuentasAzure.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\GUIActualizarCuentaAzure.java
+D:\UNIVERSIDAD\SEMESTRE8\SOA\taller\entregable\AplicacionLJStoreRMICliente\src\main\java\vistas\IActualizableCuentaAzure.java

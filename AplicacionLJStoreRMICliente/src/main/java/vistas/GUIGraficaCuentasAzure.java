@@ -33,6 +33,7 @@ public class GUIGraficaCuentasAzure extends javax.swing.JFrame {
         initComponents();
         servicioCuenta = ser;
         setLocationRelativeTo(null);
+        this.setTitle("Grafica Cuenta Azure por país");
         
     }
 

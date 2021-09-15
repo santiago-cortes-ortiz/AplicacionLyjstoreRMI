@@ -28,6 +28,7 @@ public class GUIListarCuentasAzure extends javax.swing.JFrame {
         initComponents();
         servicioCuenta = ser;
         setLocationRelativeTo(null);
+        this.setTitle("Lista Cuentas Azure");
     }
 
     /**
